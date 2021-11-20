@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\titov\\Documents\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\PS213020_Server.csproj": {}
+    "C:\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\PS213020_Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\titov\\Documents\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\PS213020_Server.csproj": {
+    "C:\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\PS213020_Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\PS213020_Server.csproj",
+        "projectUniqueName": "C:\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\PS213020_Server.csproj",
         "projectName": "PS213020_Server",
-        "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\PS213020_Server.csproj",
-        "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\obj\\",
+        "projectPath": "C:\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\PS213020_Server.csproj",
+        "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\PS213020-Server\\PS213020_Server\\PS213020_Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
