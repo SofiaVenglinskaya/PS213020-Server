@@ -1,0 +1,2 @@
+C:\GitHub\PS213020-Server\PS213020_Server\PS213020_Server.BusinesLogic.Core\obj\Debug\PS213020_Server.BusinesLogic.Core.csprojAssemblyReference.cache
+C:\GitHub\PS213020-Server\PS213020_Server\PS213020_Server.BusinesLogic.Core\obj\Debug\PS213020_Server.BusinesLogic.Core.csproj.CoreCompileInputs.cache

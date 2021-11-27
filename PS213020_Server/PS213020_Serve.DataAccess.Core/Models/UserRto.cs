@@ -12,6 +12,9 @@ namespace PS213020_Serve.DataAccess.Core.Models
     public class UserRto
     {
         [Key] public int Id { get; set; }
+        public int PhoneNumberPrefix { get; set; }
+        public int PhoneNumber { get; set; }
+        public string Password{ get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Patronymic { get; set; }
